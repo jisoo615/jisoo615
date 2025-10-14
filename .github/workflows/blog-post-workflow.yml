@@ -22,5 +22,3 @@ jobs:
           # Accept 헤더를 좀 더 일반적인 값으로 설정
           accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
           # --- 스타일을 위한 옵션 추가 ---
-          max_post_count: 5
-          template: "- [$title]($url) <br>"
