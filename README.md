@@ -17,7 +17,7 @@ Backend :
 </p>
 <p> 
 Infa&DevOps : 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
