@@ -17,3 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://sc-science.tistory.com/rss"
+          # Tistory 서버의 406 에러 방지를 위해 User-Agent를 브라우저처럼 설정
+          user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+          # Accept 헤더를 좀 더 일반적인 값으로 설정
+          accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
