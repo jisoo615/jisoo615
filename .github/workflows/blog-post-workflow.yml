@@ -22,3 +22,5 @@ jobs:
           # Accept 헤더를 좀 더 일반적인 값으로 설정
           accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
           # --- 스타일을 위한 옵션 추가 ---
+          templates: >-
+          <a href="$url" target="_blank" style="display: inline-block; width: 150px; height: 120px; margin: 4px; padding: 12px; border: 1px solid #8b8b8b; border-radius: 8px; text-decoration: none; color: #24292e; font-weight: normal; font-size: 14px; text-align: center; vertical-align: top; overflow: hidden; background-color: #ffffff; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease-in-out;" onmouseover="this.style.boxShadow='0 5px 10px rgba(0,0,0,0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'; this.style.transform='translateY(0)';">$title</a>
