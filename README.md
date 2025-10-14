@@ -41,7 +41,13 @@ Logs :
 <a href="https://sc-science.tistory.com"><img src="https://img.shields.io/badge/tistory-E74C3C?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </p>
 
-<!-- BLOG-POST-LIST:START -->- [서버 옮기기 대장정&lpar;4&rpar; - 도메인과 ssl 인증서, 이전 완료](https://sc-science.tistory.com/111) <br>- [서버 옮기기 대장정&lpar;3&rpar; - 새 ec2에서 front, back 연결 확인하기](https://sc-science.tistory.com/110) <br>- [서버 옮기기 대장정&lpar;2&rpar; - 새 계정에 RDB, S3 백업하기](https://sc-science.tistory.com/109) <br>- [서버 옮기기 대장정&lpar;1&rpar; - AWS 새 프리티어 계정 만들기 &lpar;바뀐 프리티어 플랜&rpar;](https://sc-science.tistory.com/107) <br>- [[Spring] 스프링의 DI 의존성 주입 이유, 장점 알아보기](https://sc-science.tistory.com/106) <br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [서버 옮기기 대장정&lpar;4&rpar; - 도메인과 ssl 인증서, 이전 완료](https://sc-science.tistory.com/111)
+- [서버 옮기기 대장정&lpar;3&rpar; - 새 ec2에서 front, back 연결 확인하기](https://sc-science.tistory.com/110)
+- [서버 옮기기 대장정&lpar;2&rpar; - 새 계정에 RDB, S3 백업하기](https://sc-science.tistory.com/109)
+- [서버 옮기기 대장정&lpar;1&rpar; - AWS 새 프리티어 계정 만들기 &lpar;바뀐 프리티어 플랜&rpar;](https://sc-science.tistory.com/107)
+- [[Spring] 스프링의 DI 의존성 주입 이유, 장점 알아보기](https://sc-science.tistory.com/106)
+<!-- BLOG-POST-LIST:END -->
 
 
 <p>
