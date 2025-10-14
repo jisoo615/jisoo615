@@ -24,4 +24,4 @@ jobs:
           # --- 스타일을 위한 옵션 추가 ---
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "[$title]($url)<small>📅 $date</small>"
+          template: "[$title]($url)<small>📅 $date</small><br/>"
