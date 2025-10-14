@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # 매일 아침 실행
-    - cron: '0 6 * * *'
+    # 매일 아침 실행 (UTC기준)
+    - cron: '19 8 * * *'
   workflow_dispatch:
 
 jobs:
