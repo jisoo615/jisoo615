@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '32 8 * * *' # UTC 기준
+    - cron: '0 22 * * *' # (UTC + 9시간 = KST) 매일 아침 실행
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -21,5 +21,4 @@ jobs:
           user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
           # Accept 헤더를 좀 더 일반적인 값으로 설정
           accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
-          # --- 스타일을 위한 옵션 추가 ---
-          template: "- <a href='$url' style='text-decoration:none; color:inherit;'>$title</a><br>"
+          
