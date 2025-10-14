@@ -21,4 +21,5 @@ jobs:
           user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
           # Accept 헤더를 좀 더 일반적인 값으로 설정
           accept_header: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
-          
+          template: "- <a href='$url' style='text-decoration:none; color:inherit;'>$title</a><br>"
+
