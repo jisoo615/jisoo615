@@ -54,7 +54,7 @@ Latest Posts <br/>
 
 | 프로젝트 명                                                 | 기간                            | 주요 기술                                                                | 특징                            | 링크                                                                     |
 | ------------------------------------------------------ | ----------------------------- | -------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------- |
-| [**하루도약**](https://github.com/esg-akiaka-project/back) | 24.09.23~11.29 (10주)          | `Spring Boot`, `QueryDSL`, `docker-compose`, `github actions`, `AWS` | github actions 배포 자동화, SSE 알림 | [harudoyak.store](https://harudoyak.store "null")                      |
+| [**하루도약**](https://github.com/esg-akiaka-project/back) | 24.09.23~11.29 (10주)          | `Spring Boot`, `QueryDSL`, `docker-compose`, `github actions`, `AWS`, `REST API` | github actions 배포 자동화, SSE 알림 | [harudoyak.store](https://harudoyak.store "null")                      |
 | [**해방**](https://github.com/HaeBangProject/HAEBANG)    | 23.04~23.08 (4개월)             | `Spring Boot`, `jpa`, `Thymeleaf`, `Redis`, `docker`, `AWS`, `REST API`          | 소셜로그인, 토큰 로그인, 롤링배포, 도메인      | haebang.site(사이트 닫음)                                                   |
 | [**회원제 커뮤니티**](https://github.com/jisoo615/myproject)  | 22.11 (update)<br>22.04~22.05 | `Spring Boot`, `Thymeleaf`, `통합테스트`                                  | CRUD, 검색, 페이징, 좋아요 기능 구현      | [GitHub 링크](https://www.google.com/search?q=%EB%A7%81%ED%81%AC "null") |
 
